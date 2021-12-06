@@ -107,14 +107,7 @@ addStudent("haim");
 
 
 
-//FileStream details = new FileStream(@"C:\test\grades.txt", FileMode.Append);
-//using (StreamWriter Writer = new StreamWriter(details))
-//{
-//    Writer.WriteLine($"students names:{ StudentName}");
-//    Writer.WriteLine($"students id:{studentId}");
-//    Writer.WriteLine($"students grades:{studentsGrades}");
-//}
-//}
+
 
 
 
